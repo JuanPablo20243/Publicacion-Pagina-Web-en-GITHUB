@@ -1,0 +1,22 @@
+.text-primary{
+    text-align: justify;
+    color: black;
+}
+
+.fila2{
+    background-color: rgb(13, 139, 30);
+    text-align: justify 
+}
+    
+ .descripciondrogueria{
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ }
+
+ .titulopagina{
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-size: 20px;
+ }
