@@ -1,20 +1,31 @@
-# **DROGA CENTER**
+# **FUNDACION DIGNIDAD SOCIAL**
 <p style="text-align: justify;">
-¡Bienvenidos a Drogras Center, tu destino online definitivo para todas tus necesidades de salud y bienestar! En un mundo cada vez más dinámico y conectado, entendemos la importancia de acceder a productos de calidad que respalden tu estilo de vida activo y saludable. En Drogras Center, nos enorgullece ofrecer una amplia gama de productos farmacéuticos, cosméticos, productos para el cuidado personal y mucho más, todo a solo unos clics de distancia. Nuestra misión es brindarte conveniencia, confianza y excelencia en cada compra, respaldada por un equipo dedicado que se esfuerza por superar tus expectativas. Ya sea que busques vitaminas y suplementos, productos para el cuidado de la piel o medicamentos de venta libre, estamos aquí para ayudarte a alcanzar tus metas de bienestar. Descubre la comodidad de comprar en línea con Drogras Center y déjanos ser tu socio en el viaje hacia una vida más saludable y feliz. ¡Únete a nosotros hoy y haz que tu bienestar sea una prioridad!
+La Fundación Dignidad Social es una organización comprometida con la promoción de los derechos humanos y el bienestar de las personas en situaciones vulnerables. Su labor se centra en ofrecer programas y servicios que buscan mejorar la calidad de vida de aquellos que enfrentan desafíos sociales, económicos y legales.
+¿Cuál es su objetivo principal?
+
+El objetivo fundamental de esta fundación es contribuir a la construcción de una sociedad más justa y equitativa, donde todas las personas tengan la oportunidad de desarrollarse plenamente y vivir con dignidad. Para lograrlo, la Fundación Dignidad Social se enfoca en:
+
+Protección de derechos humanos: Defender y promover los derechos de grupos vulnerables, como defensores de derechos humanos, personas migrantes y refugiados.
+Empoderamiento: Fortalecer las capacidades de las personas para que puedan tomar decisiones autónomas y mejorar sus condiciones de vida.
+Cooperación: Colaborar con otras organizaciones y entidades gubernamentales para ampliar su impacto y lograr un mayor alcance en sus acciones.
 </p>
 
 <img scr="./Drogueria%203/img/DROGA%20CENTER.PNG" alt="DROGA CENTER" title="DROGA CENTER" />
 
 
-![DROGA CENTER](./Drogueria%203/img/DROGA%20CENTER.PNG)
+![DROGA CENTER](./Drogueria%203/img/fd1.PNG)
 
-# **SEGUNDO ENCABEZADO**
+# **¿Qué tipo de proyectos desarrolla?**
 <p style="text-align: justify;">
- En Drogas Center encontrarás una amplia variedad de medicamentos, productos de cuidado personal y asesoramiento farmacéutico para mantenerte saludable y bien. Contamos con un equipo de profesionales comprometidos en brindarte la mejor atención y ayudarte a cuidar de ti y de tu familia.
+La Fundación Dignidad Social implementa una amplia gama de proyectos, los cuales pueden incluir:
+Programas educativos: Ofreciendo capacitación y formación en diferentes áreas para promover el desarrollo personal y profesional.
+Servicios legales: Brindando asesoría jurídica y acompañamiento en procesos legales a personas que lo necesitan.
+Apoyo psicosocial: Ofreciendo atención psicológica y emocional a personas que han sufrido traumas o viven situaciones de crisis.
+Proyectos de desarrollo comunitario: Implementando iniciativas que buscan mejorar las condiciones de vida de las comunidades más vulnerables.
  </p>
 
  <img scr="./img/DC.PNG" alt="DROGA CENTER" title="DROGA CENTER" />
 
 
- ![DROGA CENTER](./Drogueria%203/img/DC.PNG)
+ ![DROGA CENTER](./Drogueria%203/img/fd2.PNG)
 
