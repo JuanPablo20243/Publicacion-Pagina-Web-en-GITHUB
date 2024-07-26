@@ -27,5 +27,5 @@ Proyectos de desarrollo comunitario: Implementando iniciativas que buscan mejora
  
 
 
- ![DROGA CENTER](./Drogueria%203/img/fd2.PNG)
+ ![DROGA CENTER](./Drogueria%203/img/pwfd2.PNG)
 
