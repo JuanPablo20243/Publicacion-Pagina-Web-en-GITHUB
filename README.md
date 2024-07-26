@@ -10,7 +10,7 @@ Empoderamiento: Fortalecer las capacidades de las personas para que puedan tomar
 Cooperación: Colaborar con otras organizaciones y entidades gubernamentales para ampliar su impacto y lograr un mayor alcance en sus acciones.
 </p>
 
-<img scr="./Drogueria%203/img/DROGA%20CENTER.PNG" alt="DROGA CENTER" title="DROGA CENTER" />
+
 
 
 ![DROGA CENTER](./Drogueria%203/img/fd1.PNG)
@@ -24,7 +24,7 @@ Apoyo psicosocial: Ofreciendo atención psicológica y emocional a personas que 
 Proyectos de desarrollo comunitario: Implementando iniciativas que buscan mejorar las condiciones de vida de las comunidades más vulnerables.
  </p>
 
- <img scr="./img/DC.PNG" alt="DROGA CENTER" title="DROGA CENTER" />
+ 
 
 
  ![DROGA CENTER](./Drogueria%203/img/fd2.PNG)
