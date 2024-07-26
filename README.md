@@ -13,7 +13,7 @@ Cooperación: Colaborar con otras organizaciones y entidades gubernamentales par
 
 
 
-![DROGA CENTER](./Drogueria%203/img/fd1.PNG)
+![DROGA CENTER](./Drogueria%203/img/pwfd1.PNG)
 
 # **¿Qué tipo de proyectos desarrolla?**
 <p style="text-align: justify;">
