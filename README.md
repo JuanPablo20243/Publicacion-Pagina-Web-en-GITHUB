@@ -12,3 +12,6 @@
 <p style="text-align: justify;">
  En Drogas Center encontrarás una amplia variedad de medicamentos, productos de cuidado personal y asesoramiento farmacéutico para mantenerte saludable y bien. Contamos con un equipo de profesionales comprometidos en brindarte la mejor atención y ayudarte a cuidar de ti y de tu familia.
  </p>
+
+ <img scr="./img/DC.PNG" alt="DROGA CENTER" title="DROGA CENTER" />
+
